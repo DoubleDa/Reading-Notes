@@ -53,3 +53,12 @@
 * 其他 ：
 
 		｜获取Configuration信息：Configuration config = getResources().getConfiguration();
+
+
+* 调用关系
+
+![](https://raw.githubusercontent.com/DoubleDa/Reading-Notes/master/Application%E7%B1%BB%E8%B0%83%E7%94%A8%E5%85%B3%E7%B3%BB.jpg)
+
+* 总结
+
+
